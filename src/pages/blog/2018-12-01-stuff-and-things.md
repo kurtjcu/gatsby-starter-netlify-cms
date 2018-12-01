@@ -12,8 +12,6 @@ tags:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis purus lectus, vel molestie metus ultricies eget. Praesent gravida turpis ut porta mattis. Fusce a egestas dolor. Quisque facilisis efficitur mollis. Integer luctus aliquam turpis a condimentum. Morbi sit amet aliquet turpis. Sed vel justo eu nulla facilisis fringilla. Maecenas porttitor velit nec gravida imperdiet. Nulla lacus elit, dapibus eu pharetra dictum, consequat ac eros. Suspendisse velit augue, congue a pellentesque vel, efficitur at nibh.
 
-# 
-
 Stuff
 
 Integer ut suscipit nunc. Nullam dignissim ipsum eget nunc tincidunt, id tristique massa aliquam. Proin vulputate mi erat, vitae suscipit lacus blandit nec. Quisque at tristique nisl. Fusce in arcu sit amet ipsum consequat lacinia. Nulla facilisi. Nulla facilisi. Sed eros ipsum, rhoncus sed auctor a, aliquam vitae lorem. Fusce semper posuere tortor, in tristique ex laoreet sed. Vivamus vulputate efficitur ultricies. Nulla facilisi.
