@@ -6,7 +6,7 @@ description: gee hi how are ya!!
 tags:
   - logo
 ---
-# Things 
+# Things
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis purus lectus, vel molestie metus ultricies eget. Praesent gravida turpis ut porta mattis. Fusce a egestas dolor. Quisque facilisis efficitur mollis. Integer luctus aliquam turpis a condimentum. Morbi sit amet aliquet turpis. Sed vel justo eu nulla facilisis fringilla. Maecenas porttitor velit nec gravida imperdiet. Nulla lacus elit, dapibus eu pharetra dictum, consequat ac eros. Suspendisse velit augue, congue a pellentesque vel, efficitur at nibh.
 
@@ -48,5 +48,3 @@ sudo rm -rf
 4. !!!!
 
 [old Site](themakers.org)
-
-![our logo](/img/banner.svg)
